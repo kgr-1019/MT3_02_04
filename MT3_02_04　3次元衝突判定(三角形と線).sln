@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT3_02_04　3次元衝突判定(三角形と線)", "MT3_02_04　3次元衝突判定(三角形と線).vcxproj", "{9CC450AE-6F04-42BA-B4A1-17E8B85E1EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC450AE-6F04-42BA-B4A1-17E8B85E1EF2}.Debug|x64.ActiveCfg = Debug|x64
+		{9CC450AE-6F04-42BA-B4A1-17E8B85E1EF2}.Debug|x64.Build.0 = Debug|x64
+		{9CC450AE-6F04-42BA-B4A1-17E8B85E1EF2}.Release|x64.ActiveCfg = Release|x64
+		{9CC450AE-6F04-42BA-B4A1-17E8B85E1EF2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA67D9B5-0F85-43B0-AF8D-9CDD585A9E5C}
+	EndGlobalSection
+EndGlobal
